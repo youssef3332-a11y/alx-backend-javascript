@@ -1,5 +1,2 @@
-import getNeighborhoodsList from './2-arrow.js';
-
-const neighborhoodsList = new getNeighborhoodsList();
-const res = neighborhoodsList.addNeighborhood('Noe Valley');
-console.log(res);
+import returnHowManyArguments from './4-rest-parameter';
+console.log(returnHowManyArguments(1, 2, 3, 4, 5)); // 5
