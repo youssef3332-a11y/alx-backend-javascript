@@ -1,4 +1,6 @@
-import handleProfileSignup from "./3-all";
+import divideFunction from './8-try';
 
-handleProfileSignup();
+console.log(divideFunction(10, 2));
+console.log(divideFunction(10, 0));
+
 
