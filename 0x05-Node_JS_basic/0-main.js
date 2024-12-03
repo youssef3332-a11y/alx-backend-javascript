@@ -1,2 +1,2 @@
-displayMessage = require('./0-console.js');
-displayMessage('Hello NodeJS!');
+server = require('./4-http');
+
